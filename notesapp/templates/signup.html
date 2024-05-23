@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LivNotes - Signup</title>
+</head>
+<body>
+    <h1>Signup</h1>
+    <form method="post" action="{{ url_for('signup') }}">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username"><br><br>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password"><br><br>
+        <input type="submit" value="Signup">
+    </form>
+    <footer>&copy; LivVyas Corporation</footer>
+</body>
+</html>

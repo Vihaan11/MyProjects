@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Create Note</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        
+        h1 {
+            text-align: center;
+            margin-top: 30px;
+        }
+        
+        form {
+            text-align: center;
+            margin-top: 20px;
+        }
+        
+        textarea {
+            width: 300px;
+            height: 100px;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        
+        input[type="submit"] {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+        
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Create Note</h1>
+    
+    <form action="{{ url_for('create_note') }}" method="POST">
+        <textarea name="note" rows="5" cols="50" placeholder="Enter your note here"></textarea>
+        <br>
+        <input type="submit" value="Save Note">
+    </form>
+
+    <a href="{{ url_for('home') }}">Back to Home</a>
+    
+    <footer>
+        <p>&copy; {{ current_year }} LivVyas Corporation</p>
+    </footer>
+</body>
+</html>

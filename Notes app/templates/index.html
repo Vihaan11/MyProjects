@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LivNotes - Home</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            margin-top: 40px;
+            margin-bottom: 10px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+            background-color: #fff;
+            padding: 10px;
+            border-radius: 4px;
+        }
+
+        .right-align {
+            text-align: right;
+        }
+
+        .delete-btn {
+            background-color: #f44336;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .delete-btn:hover {
+            background-color: #d32f2f;
+        }
+
+        textarea {
+            height: 100px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            resize: vertical;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        footer {
+            margin-top: 40px;
+            text-align: center;
+            font-size: 12px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome, {{ username }}!</h1>
+    <div class="right-align">
+        <form action="{{ url_for('logout') }}" method="GET">
+            <button type="submit">Logout</button>
+        </form>
+    </div>
+    <h2>Your Notes</h2>
+    <ul>
+        {% for note in notes %}
+            <li>
+                {{ note }}
+                <form action="{{ url_for('delete_note', note_id=loop.index-1) }}" method="POST" class="delete-form">
+                    <button type="submit" class="delete-btn">Delete</button>
+                </form>
+            </li>
+        {% endfor %}
+    </ul>
+    <h2>Create Note</h2>
+    <form action="{{ url_for('create_note') }}" method="POST">
+        <input autocomplete="off" type="text" name="note" required onkeydown="if(event.key === 'Enter') event.preventDefault()">
+        <br><br>
+        <button type="submit">Save Note</button>
+    </form>
+    <footer>
+        &copy; 2023 LivVyas Corporation. All rights reserved.
+    </footer>
+</body>
+</html>
