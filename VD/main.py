@@ -3,7 +3,7 @@ import time
 
 url = input("URL: https://youtube.com/")
 
-path = "C://Users//vyass//OneDrive//Desktop"
+path = "C://Users//vihaa//OneDrive//Desktop"
 name = input("Name of file (Do not put file extension): ")
 
 yt = YouTube("https://youtube.com/"+url)
