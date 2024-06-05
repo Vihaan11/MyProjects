@@ -1,8 +1,7 @@
-'''
-Munch app MVP
-v1.0.1
-By Vihaan Vyas
-'''
+# Munch app MVP
+# v1.0.1
+# By Vihaan Vyas
+
 
 import random, time
 dish = ["Matar-paneer", "Koftae", "Rajma-chaval", "Ghea", "Chholay-bhature", "Chholay-kulche", "Kadi", "Dal makhani", "Aloo-pyaz"]
