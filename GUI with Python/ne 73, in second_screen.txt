@@ -1,0 +1,714 @@
+ne 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):       
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1948, in __call__  
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 73, in second_screen
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 110, in <module>
+    starter()
+  File "c:\Users\vihaa\PycharmProjects\GUI with Python\installer\installer.py", line 107, in starter
+    first_window_intro.mainloop()        
+  File "C:\Users\vihaa\anaconda\Lib\tkinter\__init__.py", line 1485, in mainloop  
+    self.tk.mainloop(n)
+KeyboardInterrupt
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python> ^C
+h Python> ^C
+PS C:\Users\vihaa\PycharmProjects\GUI with Python>
+
+
+
+
+
+
+
+
+
+
+

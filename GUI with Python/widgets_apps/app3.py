@@ -1,0 +1,19 @@
+import tkinter as tk
+from tkinter import ttk
+
+root = tk.Tk()
+
+main = ttk.Frame(root)
+main.pack(side='left', fill='both', expand=True)
+
+label1 = tk.Label(main, text="Label Top", bg='red')
+label1.pack(side='top', fill='both', expand=True)
+
+label2 = tk.Label(main, text="Label Top", bg='red')
+label2.pack(side='top', fill='both', expand=True)
+
+
+label3 = tk.Label(root, text="Label Left", bg='green')
+label3.pack(side='left', fill='both', expand=True)
+
+root.mainloop()
