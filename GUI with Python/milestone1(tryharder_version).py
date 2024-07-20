@@ -1,5 +1,3 @@
-import _tkinter
-
 from windows import dpi_awareness
 import tkinter as tk
 from tkinter import ttk
@@ -34,7 +32,7 @@ def calc_feet(*args):
         feet_value.set(f"{feet:.9}")
     except ValueError:
         pass
-    except _tkinter.TclError:
+    except:
         metres_value.set(0)
 
 
@@ -47,7 +45,7 @@ def calc_metre(*args):
         metres_value.set(f"{metre:.9}")
     except ValueError:
         pass
-    except _tkinter.TclError:
+    except:
         metres_value.set(0)
 
 main = ttk.Frame(root,padding=(30,15))
