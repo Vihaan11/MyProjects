@@ -11,15 +11,17 @@ def dpi_awareness():
 dpi_awareness()
 
 root = tk.Tk()
-# height = root.winfo_screenheight()
-# width = root.winfo_screenwidth()
-# center_x = (width-600) // 2
-# center_y = (height-400) // 2
-# root.geometry(f'600x300+{center_x}+{center_y}')
 root.title("TITLE")
+style = ttk.Style(root)
 
 # Code goes here👇
 
+label = ttk.Label(root, text="Label")
 
+print(style.element_options("Label.border"))
+print(style.element_options("Label.padding"))
+print(style.element_options("Label.label"))
 
-root.mainloop()
+# style.configure('Tlabel', border=)
+
+# root.mainloop()
